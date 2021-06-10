@@ -1,3 +1,4 @@
+//O(n) time O(n) space
 vector<int> Solution::spiralOrder(const vector<vector<int> > &nums) {
     
     int t=0;
