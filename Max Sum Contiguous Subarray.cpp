@@ -1,3 +1,4 @@
+//O(n) time
 int Solution::maxSubArray(const vector<int> &nums) {
     int curr_max=nums[0];
     int max_sofar=nums[0];
